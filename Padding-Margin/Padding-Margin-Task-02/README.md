@@ -21,5 +21,5 @@ For this first exercise, simply edit the style.css file so that the divs look li
     - 16px (from the top and the bottom), and 8px (from the right and the left) between its content and its border.
 - The div with the class `.button-container` has 8px between its content and its border.
 - The button element:
-    - has 8px on the sides, and 24px on the top and bottom between its content and its border.
+    - has 24px on the sides, and 8px on the top and bottom between its content and its border.
     - is centered on its own line.

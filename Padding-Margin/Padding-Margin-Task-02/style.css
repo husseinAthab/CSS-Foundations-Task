@@ -17,9 +17,11 @@ p {
 }
 
 .card {
+  
   width: 400px;
   background: green;
   /* Change me */
+  padding: 8px;
 }
 
 .title {
@@ -27,18 +29,30 @@ p {
   text-align: center;
   font-size: 16px;
   /* Change me */
+  margin: 0px;
+  padding-bottom: 8px;
+  padding: 8px 8px 8px 8px ;
+  margin: 8px;
+
+
 }
 
 .content {
-  background: white;
+  background: rgb(255, 255, 255);
   font-style: italic;
   /* Change me */
+  margin: 8px;
+padding: 16px 8px;
+
+  
 }
 
 .button-container {
   background: white;
   text-align: center;
   /* Change me */
+  padding: 8px;
+
 }
 
 button {
@@ -48,4 +62,7 @@ button {
   background-color: rgb(204, 237, 204);
   display: block;
   /* Change me */
+  
+  padding: 8px 24px;
+  margin: auto;
 }
